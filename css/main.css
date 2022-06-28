@@ -123,7 +123,7 @@ a:focus {
 }
 a:hover,
 a:focus {
-    color: #7beec7;
+    color: #737D89;
     text-decoration: none;
 }
 a,
@@ -282,7 +282,7 @@ ul.sublist {
 .second-title hr {
     width: 22px;
     height: 2px;
-    background: #56c8d4;
+    background: #C9A8A0;
     float: left;
 }
 .second-title .slogan {
@@ -305,7 +305,7 @@ ul.sublist {
 }
 .pagination-ef li a:hover {
     color: #333;
-    background-color: #7beec7;
+    background-color: #737D89;
 }
 .pagination-ef li {
     line-height: 48px;
@@ -315,7 +315,7 @@ ul.sublist {
     text-align: center;
 }
 .pagination-ef li.current a, .pagination-ef li span.page-numbers.current {
-    background-color: #7beec7;
+    background-color: #737D89;
 }
 .pagination-ef i {
     font-size: 30px;
@@ -425,8 +425,8 @@ ul.sublist {
     font-weight: 700;
 }
 .btn-1:hover {
-    border: 1px solid #56c8d4;
-    box-shadow: 200px 0 0 0 #56c8d4 inset;
+    border: 1px solid #C9A8A0;
+    box-shadow: 200px 0 0 0 #C9A8A0 inset;
     color: #fff;
 }
 
@@ -724,7 +724,7 @@ svg {
     left: 0;
 }
 .slider .slide .slide__overlay-path {
-    fill: #7beec7;
+    fill: #737D89;
 }
 .slider .slide:nth-child(2) {
     left: 100%;
@@ -892,7 +892,7 @@ span.border-text {
 }
 .slider-controls a:hover,
 .slider-controls a i:hover {
-    color: #7beec7;
+    color: #737D89;
 }
 /* =Menu right
 -------------------------------------------------------------- */
@@ -920,7 +920,7 @@ span.border-text {
 }
 .close-menu:hover,
 .search-icon:hover {
-    color: #7beec7;
+    color: #737D89;
 }
 /* search */
 .js-ui-search input[type="text"] {
@@ -1060,7 +1060,7 @@ span.border-text {
 }
 .menu-wrap a:hover,
 .menu-wrap a:focus {
-    color: #7beec7;
+    color: #737D89;
 }
 .content-wrap {
     -webkit-overflow-scrolling: touch;
@@ -1480,7 +1480,7 @@ ul.sub-menu li a {
 .newsletter-left {
     height: 325px;
     width: 100%;
-    background-color: #7beec7;
+    background-color: #737D89;
     display: table;
     text-align: center;
 }
@@ -1501,7 +1501,7 @@ ul.sub-menu li a {
     position: relative;
     height: 325px;
     width: 100%;
-    background-color: #7beec7;
+    background-color: #737D89;
     display: table;
     text-align: center;
 }
@@ -1524,13 +1524,13 @@ ul.sub-menu li a {
     padding-right: 20px;
 }
 .newsletter-right-inner input:focus {
-    border: 1px solid #7beec7;
+    border: 1px solid #737D89;
 }
 .newsletter-right-inner input[type=submit] {
     margin-top: 15px;
     max-width: 175px;
     margin: auto;
-    background: #7beec7;
+    background: #737D89;
     border: 0;
     margin-top: 30px;
     color: #fff;
@@ -1574,7 +1574,7 @@ ul.sub-menu li a {
     text-align: center;
 }
 .tabs-wrapper {
-    background-color: #7beec7;
+    background-color: #737D89;
     min-height: 330px;
     width: 100%;
     padding: 40px;
@@ -1634,7 +1634,7 @@ ul.sub-menu li a {
     width: 100%;
 }
 .our-story-content {
-    background-color: #7beec7;
+    background-color: #737D89;
     margin-top: 50px;
     height: 400px;
     display: table;
@@ -1786,7 +1786,7 @@ ul.client-thumb-2 li a img:hover{
     -o-backface-visibility: hidden;
     -ms-backface-visibility: hidden;
     backface-visibility: hidden;
-    background: #86eecb;
+    background: #C9A8A0;
     cursor: pointer;
     border: none;
     width: 48px;
@@ -1923,7 +1923,7 @@ ul.client-thumb-2 li a img:hover{
     transition-duration: 200ms
 }
 .works-filter a.active {
-    color: #7beec7;
+    color: #737D89;
 }
 .works-filter a:before {
     padding-right: 20px;
@@ -1990,7 +1990,7 @@ ul.client-thumb-2 li a img:hover{
     z-index: 4;
 }
 .img .overlay-thumb:hover {
-    background-color: rgba(123, 238, 199, .9);
+    background-color:#E6D5C3;
 }
 
 .img .overlay-thumb.bg-white:hover{
@@ -2216,7 +2216,7 @@ span.press {
     font-size: 38px;
 }
 .load-more a:hover {
-    color: #56c8d4;
+    color: #C9A8A0;
 }
 .spinef {
     -webkit-animation-name: spin;
@@ -2303,15 +2303,15 @@ span.press {
 .single-project-slider .single-controls .arrow-left a:hover,
 .single-project-slider .single-controls .arrow-right a:hover {
     color: #fff;
-    background: #7beec7;
-    border: 1px solid #7beec7;
+    background: #737D89;
+    border: 1px solid #737D89;
 }
 .single-project-slider .single-controls .arrow-right {
     right: 20px;
 }
 .single-project-slider .slider-controls a:hover,
 .slider-controls a i:hover {
-    color: #7beec7;
+    color: #737D89;
 }
 .single-portfolio-wrapper {
     margin-top: 50px
@@ -2399,7 +2399,7 @@ ul.social-buttons li {
     transform: translate(100%, 0);
     transition: all .3s ease-in-out;
     font-size: 10px;
-    background: #7beec7;
+    background: #737D89;
 }
 
 /*Similar Project*/
@@ -2462,7 +2462,7 @@ ul.social-buttons li {
     background-color: #fff;
 }
 .circle {
-    stroke: #48ac8a;
+    stroke: #E6D5C3;
     stroke-dasharray: 650;
     stroke-dashoffset: 650;
     -webkit-transition: all 0.5s ease-in-out;
@@ -2486,7 +2486,7 @@ ul.social-buttons li {
 .playBut:hover .triangle {
     stroke-dashoffset: 0;
     opacity: 1;
-    stroke: #48ac8a;
+    stroke: #E6D5C3;
     animation: nudge 0.7s ease-in-out;
 }
 @keyframes nudge {
@@ -2580,7 +2580,7 @@ ul.social-buttons li {
 }
 .share-buttons ul li a:hover,
 .share-buttons ul li a i:hover {
-    color: #7beec7;
+    color: #737D89;
 }
 .blog-tags ul {
     padding: 0 0 0 6px;
@@ -2600,7 +2600,7 @@ ul.social-buttons li {
 .blog-tags ul li a:hover,
 .blog-tags ul li:hover {
     color: #fff;
-    background: #7beec7;
+    background: #737D89;
 }
 .full-blog-content {
     margin-top: 30px;
@@ -2799,7 +2799,7 @@ ul.social-buttons li {
     height: 48px;
     outline: 0;
     border: 0;
-    background-color: #7beec7;
+    background-color: #737D89;
     font-size: 18px;
     color: #fff;
     font-weight: 500;
@@ -2865,7 +2865,7 @@ input[type="text"] {
     padding: 8px;
 }
 .page-error p a {
-    color: #7beec7;
+    color: #737D89;
     padding-left: 5px;
     padding-right: 5px;
 }
@@ -2915,7 +2915,7 @@ ul.social-media li a i {
     color: #111111;
 }
 ul.social-media li a i:hover {
-    color: #7beec7;
+    color: #737D89;
 }
 .copyright-mark {
     margin-top: 50px;
